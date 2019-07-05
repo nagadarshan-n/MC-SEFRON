@@ -8,6 +8,6 @@ This toolbox uses time-varying functions as weights. If you are using time-varyi
 
 Regular updates on this project are posted at https://www.researchgate.net/project/Spiking-Neural-Networks-7
 
-Example: Iris train and test dataset are given in iris_train_1.csv and iris_test_1.csv respectively. Run the Main.m file to train the MC-SEFRON.
+Example: Iris train and test dataset are given in iris_train_1.csv and iris_test_1.csv respectively. Run the Main.py file to train the MC-SEFRON.
 
 Note: Change the hyperparamets for other problems.

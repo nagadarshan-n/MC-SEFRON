@@ -9,26 +9,6 @@ def main():
     Tr                    = np.array(pd.read_csv('iris_train_1.csv', header=None).values)
     Te                    = np.array(pd.read_csv('iris_test_1.csv', header=None).values)
 
-    # Tr                    = np.array(pd.read_csv('wine_train.csv', header=None).values)
-    # Te                    = np.array(pd.read_csv('wine_test.csv', header=None).values)
-
-    # Tr                    = np.array(pd.read_csv('liver_train.csv', header=None).values)
-    # Te                    = np.array(pd.read_csv('liver_test.csv', header=None).values)
-
-    # Tr                    = np.array(pd.read_csv('breast_cancer_train.csv', header=None).values)
-    # Te                    = np.array(pd.read_csv('breast_cancer_test.csv', header=None).values)
-
-    # Tr                    = np.array(pd.read_csv('ion_train.csv', header=None).values)
-    # Te                    = np.array(pd.read_csv('ion_test.csv', header=None).values)
-
-    # Tr                    = np.array(pd.read_csv('pima_train.csv', header=None).values)
-    # Te                    = np.array(pd.read_csv('pima_test.csv', header=None).values)
-
-    # Tr                    = np.array(pd.read_csv('mnist_train.csv', header=None).values)
-    # Te                    = np.array(pd.read_csv('mnist_test.csv', header=None).values)
-
-
-
     # Algorithm parameters
     RF                    = 6
     pre                   = 3
